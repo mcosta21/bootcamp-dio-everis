@@ -1,0 +1,150 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body {
+    font: 500 14px 'Roboto', sans-serif;
+    background: #fafafa;
+}
+
+main {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+a {
+    color: #0095f6;
+}
+
+article {
+    display: flex;
+    height: inherit;
+    max-width: 935px;
+    width: 100%;
+}
+
+main article section {
+    height: inherit;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+main article .section-phone {
+    justify-content: flex-end;
+}
+
+main article .section-phone img {
+    margin-top: 35px;
+    height: 90vh;
+}
+
+main article .section-info {
+    align-items: start;
+    flex-direction: column;
+}
+
+main article .section-info div {
+    width: 80%;
+}
+
+main article .section-info .user {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid #e5e5e5;
+    background: #FFF;
+    border-radius: 2px;
+    padding: 20px;
+    height: 50%;
+}
+
+main article .section-info .user .logo {
+    width: 50%;
+}
+
+main article .section-info .user .photo-user {
+    height: 90px;
+    border-radius: 100%;
+}
+
+main article .section-info .user .link-continue {
+    color: #FFF;
+    background-color: #0095f6;
+    padding: 8px;
+    border-radius: 3px;
+}
+
+main article .section-info .not-user {
+    height: 15%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #e5e5e5;
+    background: #FFF;
+    border-radius: 3px;
+    padding: 10px 50px;
+    margin-top: 10px;
+}
+
+main article .section-info .not-user p {
+    color: #777777;
+}
+
+main article .section-info .not-user div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+
+main article .section-info .download {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+main article .section-info .download h4 {
+    margin: 20px 0;
+}
+
+main article .section-info .download div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+main article .section-info .download img { 
+    width: 120px
+}
+
+main article .section-info .download img + img {
+    margin-left: 10px;
+}
+
+@media (max-width: 700px){
+    main article .section-phone {
+        display: none;
+    }
+
+    main article .section-info {
+        width: 100%;
+        align-items: center;
+    }
+
+    main article .section-info div {
+        background: transparent !important;
+        border: none !important;
+    }
+}
