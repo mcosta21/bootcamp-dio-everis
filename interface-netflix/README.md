@@ -3,7 +3,7 @@
 <h1>Interface do Netflix</h1>
 
 <p align="justify">
-    Este projeto faz parte do bootcamp da <strong>Everis</strong>, organizado e disponibilizado pela <strong>Digital Innovation One</strong>, o qual é proposto o seguinte projeto pela <a href="https://www.linkedin.com/in/felipe-aguiar-047/">Felipe Aguiar</a>.
+    Este projeto faz parte do bootcamp da <strong>Everis</strong>, organizado e disponibilizado pela <strong>Digital Innovation One</strong>, o qual foi proposto o seguinte projeto pela <a href="https://www.linkedin.com/in/felipe-aguiar-047/">Felipe Aguiar</a>.
 </p>
 
 <p align="center">
