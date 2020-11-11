@@ -1,0 +1,37 @@
+
+@media screen and (max-width: 700px) {
+    header .container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0 20px;
+    }
+    
+    section.container {
+        padding-left: 0;
+    }
+
+    .movie-details {
+        width: 100%;
+        padding: 20px;
+        margin-top: 150px;
+    }
+
+    .movie-details h1 {
+        font-size: 24pt;
+    }
+
+    .movie-details p {
+        font-size: 10pt;
+        line-height: 20px;
+    }
+
+    .buttons-details {
+        padding: 20px;
+    }
+    .buttons-details button{
+        margin-top: 10px;
+        margin-left: 0;
+    }
+}
