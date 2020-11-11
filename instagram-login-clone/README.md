@@ -1,9 +1,9 @@
-
+</br>
 <img src="https://github.com/mcosta21/bootcamp-dio-everis/blob/main/images/digital-innovation-one.png?raw=true" alt="Digital Innovation One"/>
 <h1>Instagram Login Clone</h1>
 
 <p align="justify">
-    Este projeto faz parte do bootcamp da <strong>Digital Innovation One</strong>, o qual é proposto  o seguinte projeto pela <a href="https://github.com/SpruceGabriela">Gabriela Pinheiro</a>.
+    Este projeto faz parte do bootcamp da <strong>Everis</strong>, organizado e disponibilizado pela <strong>Digital Innovation One</strong>, o qual foi proposto o seguinte projeto pela <a href="https://github.com/SpruceGabriela">Gabriela Pinheiro</a>.
 </p>
 
 <p align="center">
