@@ -2,11 +2,13 @@
 
 <img src="https://github.com/mcosta21/bootcamp-dio-everis/blob/main/images/digital-innovation-one.png?raw=true" alt="Digital Innovation One"/>
 
-<h1>Bootcamp Everis FullStack Developer</h1>
+<h1>
+    <img height="30px" src="https://github.com/mcosta21/bootcamp-dio-everis/blob/main/images/everis.png?raw=true"/>
+    Bootcamp Everis FullStack Developer
+</h1>
     
 </br>
-<hr>
-<h1>Instagram Login Clone</h1>
+<h2>Instagram Login Clone</h2>
 
 <p align="justify">
     Este projeto faz parte do bootcamp da <strong>Everis</strong>, organizado e disponibilizado pela <strong>Digital Innovation One</strong>, o qual foi proposto o seguinte projeto pela <a href="https://github.com/SpruceGabriela">Gabriela Pinheiro</a>.
@@ -17,10 +19,12 @@
 </p>
 
 <p align="justify">Página de login do Instagram: nesse projeto, será abordado o conceito sobre CSS Flexbox e responsividade, preparando os alunos para as aulas de jogos, nas quais será utilizado o CSS junto ao JavaScript para estilização e posicionamento.</p>
+
 </br>
 <hr>
 </br>
-<h1>Interface do Netflix</h1>
+
+<h2>Interface do Netflix</h2>
 
 <p align="justify">
     Este projeto faz parte do bootcamp da <strong>Everis</strong>, organizado e disponibilizado pela <strong>Digital Innovation One</strong>, o qual foi proposto o seguinte projeto pela <a href="https://www.linkedin.com/in/felipe-aguiar-047/">Felipe Aguiar</a>.
