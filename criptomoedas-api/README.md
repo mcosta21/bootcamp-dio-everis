@@ -13,7 +13,7 @@ Projeto Web utilizando a API Coin Market Cap <br>
 </p>
 
 <p align="center">
-<img src="https://github.com/mcosta21/bootcamp-dio-everis/blob/main/interface-netflix/assets/banner.png?raw=true" alt="Requisitando dados de uma API de criptomoedas" />
+<img src="https://github.com/mcosta21/bootcamp-dio-everis/blob/main/criptomoedas-api/capa.png?raw=true" alt="Requisitando dados de uma API de criptomoedas" />
 </p>
 
 <p align="justify">Requisitando dados de uma API de criptomoedas: Aprenda a fazer uma requisição de uma API de Criptomoeda com JavaScript. Para você que está começando a carreira de TI e gostaria de manipular APIs além de exibir essas informações em uma página web responsiva.</p>
