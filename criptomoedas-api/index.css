@@ -1,0 +1,18 @@
+.breadcrumb {
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+#coins {
+    padding-bottom: 18px; 
+    width: 100vw; 
+    display: -webkit-inline-box; 
+    gap: 15px; 
+    overflow-x: scroll
+}
+.card-body .badge {
+    color: white; 
+    margin-bottom: 8px;
+}
