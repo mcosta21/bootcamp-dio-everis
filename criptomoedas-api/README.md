@@ -1,8 +1,4 @@
-# Digital Innovation One
-Projeto Web utilizando a API Coin Market Cap <br>
-[Portal do desenvolvedor](https://pro.coinmarketcap.com/account) <br>
-[Documetação de autenticação](https://coinmarketcap.com/api/documentation/v1/#section/Authentication) <br>
-[Documentação API](https://coinmarketcap.com/api/documentation/v1/#) <br>
+
 
 </br>
 <img src="https://github.com/mcosta21/bootcamp-dio-everis/blob/main/images/digital-innovation-one.png?raw=true" alt="Digital Innovation One"/>
@@ -18,3 +14,9 @@ Projeto Web utilizando a API Coin Market Cap <br>
 
 <p align="justify">Requisitando dados de uma API de criptomoedas: Aprenda a fazer uma requisição de uma API de Criptomoeda com JavaScript. Para você que está começando a carreira de TI e gostaria de manipular APIs além de exibir essas informações em uma página web responsiva.</p>
 
+<br>
+
+<h3>Links importantes</h3>
+<a href="https://pro.coinmarketcap.com/account">Portal do desenvolvedor</a><br>
+<a href="https://coinmarketcap.com/api/documentation/v1/#section/Authentication">Documetação de autenticaçãor</a><br>
+<a href="https://coinmarketcap.com/api/documentation/v1/#">Documentação API</a><br>
